@@ -2,6 +2,8 @@
 Data Communication using Huwaei eNSP
 ![image](https://github.com/NahianMugdho/VLAN-configuration/assets/66090621/32f58b54-a7e4-482a-ba07-62cb985e0dbe)
 ![image](https://github.com/NahianMugdho/VLAN-configuration/assets/66090621/2423f11d-3841-4966-b9c9-ee0187ec59cd)
+![image](https://github.com/NahianMugdho/VLAN-configuration/assets/66090621/35e1d512-4f40-40d7-b6d9-77e646c9dc39)
+
 ![image](https://github.com/NahianMugdho/VLAN-configuration/assets/66090621/0c616a2e-a492-4024-9cc8-6de4ac2539c2)
 
 ![image](https://github.com/NahianMugdho/VLAN-configuration/assets/66090621/236ae318-9669-4064-9d04-2f55a33674a7)
